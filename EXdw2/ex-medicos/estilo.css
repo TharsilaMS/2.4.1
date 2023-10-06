@@ -1,0 +1,24 @@
+img{
+    clip-path:circle();
+    height :100px;   
+  }
+  p , h3{
+    text-align: center;
+    text-decoration :bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  #medicos{
+    width:100px;
+      margin:0 auto;
+  }
+  img{
+    display: flex;
+    justify-content:center;
+    
+  }
+  h3{
+    color:#F08080 ;
+  }
+b{
+    color:#F08080 ;
+}
